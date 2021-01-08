@@ -1,0 +1,7 @@
+{
+  "name": "ib-shop",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
